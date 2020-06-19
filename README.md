@@ -42,4 +42,15 @@
   &nbsp;&nbsp;&nbsp;&nbsp;Some were assigned to be combined with other precincts according to vote.nyc’s election results summary, and were merged using QGIS. However, others were left blank. Most of the precincts missing from the election data were located in bodies of water/parks/roads/bridges/tunnels/etc., which we found by comparing the missing precincts with a basemap from Open Street Maps and logging in [this Google Sheet](https://docs.google.com/spreadsheets/d/1QlnM45cDy7lEPU2rtXuJWt25aU3TkOZMano96k7X67Q/edit?usp=sharing).
 
 - Assign Census Block Data to Precincts:
-  - Using package [MAUP](https://github.com/mggg/maup)
+  - Using package [MAUP](https://github.com/mggg/maup)  
+
+
+- 1_election_data_cleaning
+- 2_election_spatial_joins-1 & 2_election_spatial_joins-2
+- 3_census_data_cleaning.ipynb
+- 4_MAUP
+- (Please see [this link](https://drive.google.com/drive/folders/14KDLq9Dbt1UazSl6jrx1pa4Dshv0FpUW?usp=sharing) for data&scrips)
+
+
+
+- Made choropleth maps via ArcGIS
