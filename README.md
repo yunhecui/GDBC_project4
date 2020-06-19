@@ -49,7 +49,7 @@
 - 2_election_spatial_joins-1 & 2_election_spatial_joins-2
 - 3_census_data_cleaning.ipynb
 - 4_MAUP
-- (Please see [this link](https://drive.google.com/drive/folders/14KDLq9Dbt1UazSl6jrx1pa4Dshv0FpUW?usp=sharing) for data&scrips)
+- (Please see [this link](https://drive.google.com/drive/folders/14KDLq9Dbt1UazSl6jrx1pa4Dshv0FpUW?usp=sharing) for data&scripts)
 
 
 
